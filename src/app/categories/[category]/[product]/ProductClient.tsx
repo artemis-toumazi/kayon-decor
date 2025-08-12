@@ -145,7 +145,7 @@ export function ProductClient({
                                     as="span"
                                     className="mt-1 flex items-center text-sm text-gray-500"
                                   >
-                                    ${variant.price}
+                                    €{variant.price}
                                   </RadioGroup.Description>
                                 )}
                               </div>
