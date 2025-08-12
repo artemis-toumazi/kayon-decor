@@ -27,9 +27,11 @@ export const Story = () => {
             Balinese craftsmanship
           </h2>
           <p className="mt-3 text-xl text-white">
-            We work with artisans in Bali to create beautiful, handcrafted
-            pieces. Each one is unique and made with love. We hope you will love
-            them as much as we do.
+            Every piece we offer is created by skilled artisans in Bali, 
+            blending traditional techniques with timeless design. 
+            Handcrafted with care and attention to detail, each 
+            creation carries its own story, ready to bring warmth 
+            and character to your home.
           </p>
           <Link
             href="/about-us"
